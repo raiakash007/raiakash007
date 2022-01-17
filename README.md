@@ -9,3 +9,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning new technology trends
 - 💞️ I’m looking to collaborate on suitable application development project
 - 📫 How to reach me (Email: akashrai0806@gmail.com)
+- 📫 View my certificates repository (https://github.com/raiakash007/Certificates)
